@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.claude/skills/
+.agents/skills/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
